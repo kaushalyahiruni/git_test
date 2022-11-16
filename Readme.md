@@ -1,3 +1,3 @@
-# my file
-
-updating my readme file
+# welcome
+html structure 
+learning how to use git
